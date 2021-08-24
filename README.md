@@ -12,7 +12,7 @@ A:取代之前`前端工程師`紙筆測驗的方式，我們會給你一些題�
 
 ### Q:那要怎麼開始呢
 
-A: 請你開啟此[網站](https://careline-newstar.firebaseapp.com/)，照著指引暸解所有的題目內容
+A: 請你開啟此[網站](https://careline-online-exam.firebaseapp.com/cl-dashboard)，照著指引暸解所有的題目內容
 
 > 若有疑問，可以發Issue，標題前請加`[考題]`
 
@@ -46,7 +46,7 @@ A: 我是凱，熱愛生活、旅行與美食，身型雖然很小，但冒險�
 
 > 終於有人問這題了，灑花(絕不承認是我拿食物賄賂大家才有這題的 哈哈哈~~
 
-![Kei_Family](https://careline-newstar.firebaseapp.com/assets/images/thanksThree.png)
+![Kei_Family](https://careline-online-exam.firebaseapp.com/assets/images/thanksThree.png)
 
 <br/>
 
