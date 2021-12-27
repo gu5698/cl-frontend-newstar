@@ -58,7 +58,6 @@ h4 {
 @media (max-width: 850px) {
   .grid {
     margin: 0;
-    flex-wrap: unset;
   }
   .module {
     min-width: 60px;
