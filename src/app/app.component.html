@@ -3,8 +3,8 @@
     (click)="messageService.clearFirst5()">clear top 4 messages</button>
 </h1>
 <nav>
-  <a routerLink="/cl-dashboard">Dashboard</a>
-  <a routerLink="/cl-heroes">{{heroService.heroes?.length}} Heroes</a>
+  <a routerLink="/cl-dashboard">{{data.dashboard}}</a>
+  <a routerLink="/cl-heroes">{{data.heroes}}</a>
   <a routerLink="/bonusPoint">bonusPoint</a>
 </nav>
 <router-outlet></router-outlet>
