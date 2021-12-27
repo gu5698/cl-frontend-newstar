@@ -12,6 +12,11 @@
     <img src="assets/imgs/flex-9-grid-cell-sample.png" alt="">
   </div>
   <p class="keyword">你的實作結果:</p>
+  <div class="flexbox-group">
+    <div *ngFor="let flexBox of flexBoxes" class="col col-1 flexbox">
+      {{flexBox}}
+    </div>
+  </div>
   <br/>
   <br/>
 </section>
@@ -26,6 +31,11 @@
     <img src="assets/imgs/grid-colum-row-span-sample.png" alt="">
   </div>
   <p class="keyword">你的實作結果:</p>
+  <div class="gridbox-group">
+    <div *ngFor="let gridBox of gridBoxes" class="col col-1 gridbox">
+      {{gridBox}}
+    </div>
+  </div>
   <br/>
   <br/>
 </section>
